@@ -1,21 +1,34 @@
 # Mystic
 
-**TODO: Add description**
+**TODO: **
+- [ ] membrane
+- [ ] liveview
+- [ ] phoenix (?)
+- [ ] stream audio
+- [ ] stream video
+- [ ] nerves
 
-## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `mystic` to your list of dependencies in `mix.exs`:
+## What?
 
-```elixir
-def deps do
-  [
-    {:mystic, "~> 0.1.0"}
-  ]
-end
-```
+Need to be able to stream audio and video and display it on a website. 
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/mystic>.
+## How?
 
+tbd...
+
+## Tutorials
+
+[membrane tutorial](https://github.com/membraneframework/membrane_demo/tree/master/camera_to_hls_nerves) 
+[nerves](https://nerves-project.org/) 
+[liveview](https://www.youtube.com/watch?v=Fude1tM3kg0)
+
+## Shopping List
+
+- [ ] Raspberry pi 4
+- [ ] IR camera
+- [ ] IR led
+- [ ] power cable
+- [ ] pi case
+- [ ] microphone
+- [ ] camera mount?
