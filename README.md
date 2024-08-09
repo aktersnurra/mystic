@@ -20,7 +20,9 @@ tbd...
 ## Tutorials
 
 [membrane tutorial](https://github.com/membraneframework/membrane_demo/tree/master/camera_to_hls_nerves) 
+
 [nerves](https://nerves-project.org/) 
+
 [liveview](https://www.youtube.com/watch?v=Fude1tM3kg0)
 
 ## Shopping List
