@@ -8,7 +8,6 @@
 - [ ] stream video
 - [ ] nerves
 
-
 ## What?
 
 Need to be able to stream audio and video and display it on a website. 
@@ -27,10 +26,11 @@ tbd...
 
 ## Shopping List
 
-- [ ] Raspberry pi 4
-- [ ] IR camera
-- [ ] IR led
-- [ ] power cable
-- [ ] pi case
-- [ ] microphone
-- [ ] camera mount?
+- [x] Raspberry pi 5
+- [x] IR camera
+- [x] IR led
+- [x] power cable
+- [x] pi case
+- [x] microphone
+- [x] camera mount?
+- [x] wifi module
