@@ -26,11 +26,12 @@ tbd...
 
 ## Shopping List
 
-- [x] Raspberry pi 5
-- [x] IR camera
-- [x] IR led
-- [x] power cable
-- [x] pi case
-- [x] microphone
-- [x] camera mount?
+- [x] [Raspberry pi 5](https://thepihut.com/products/raspberry-pi-5)
+- [x] [Pi Case](https://thepihut.com/products/aluminium-raspberry-pi-5-case)
+- [x] [IR Camera](https://thepihut.com/products/raspberry-pi-night-vision-camera)
+- [x] [Power Supply](https://thepihut.com/products/raspberry-pi-27w-usb-c-power-supply?variant=42531604168899)
+- [x] [Microphone](https://thepihut.com/products/mini-usb-microphone)
+- [x] [Camera Mount](https://thepihut.com/products/tripod-mount-for-raspberry-pi-camera-modules)
+- [x] [Tripod](https://thepihut.com/products/heavy-duty-tripod-swivel-ball-adapter)
 - [x] wifi module
+- [ ] [MicroSD Card](https://www.inet.se/produkt/5306125/sandisk-ultra-microsdxc-128-gb)
