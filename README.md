@@ -13,6 +13,7 @@ Need to be able to stream audio and video and display it on a website.
 
 ## How?
 
+```
                    ┌───────────────────────────────────────────────┐
                    │                                               │
   ┌──────────┐     │  ┌──────┐                        ┌──────────┐ │
@@ -23,6 +24,7 @@ Need to be able to stream audio and video and display it on a website.
   └──────────┘     │  └──────┘                                     │
                    │                                               │
                    └───────────────────────────────────────────────┘
+```
 
 tbd...
 
