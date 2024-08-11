@@ -2,8 +2,7 @@
 
 **TODO: **
 - [ ] membrane
-- [ ] liveview
-- [ ] phoenix (?)
+- [ ] phoenix liveview
 - [ ] stream audio
 - [ ] stream video
 - [ ] nerves
@@ -13,6 +12,17 @@
 Need to be able to stream audio and video and display it on a website. 
 
 ## How?
+
+                   ┌───────────────────────────────────────────────┐
+                   │                                               │
+  ┌──────────┐     │  ┌──────┐                        ┌──────────┐ │
+  │Microphone├─────│─►│nerves│  ┌──────┐              │ Phoenix  │ │
+  └──────────┘     │  └──────┘  │nerves├─────────────►│ Liveview │ │
+  ┌──────────┐     │  ┌──────┐  └──────┘              └──────────┘ │
+  │  Camera  ├─────│─►│nerves│                                     │
+  └──────────┘     │  └──────┘                                     │
+                   │                                               │
+                   └───────────────────────────────────────────────┘
 
 tbd...
 
